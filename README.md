@@ -41,7 +41,7 @@ If you don't have a private key passphrase, I've made comments in [SSH.py](https
 
     https://workflow.is/workflows/e6b841a3d041417b9f350044d5ae6ade
     
-### Add the dictionary in the workflow
+### Add values to the dictionary in the workflow
 In the dictionary, add your own settings, here's the descripton for each key
 
 * **cmd**: your command you want to send to the terminal. It's already a string so send in `ls /` rather than `'ls /'`
