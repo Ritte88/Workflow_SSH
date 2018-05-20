@@ -39,7 +39,7 @@ If you don't have a private key passphrase, I've made comments in [SSH.py](https
 
 ### Import the workflow
 
-    https://workflow.is/workflows/bed501f09b0b4476a650c356388410ea
+    https://workflow.is/workflows/e6b841a3d041417b9f350044d5ae6ade
     
 ### Add the dictionary in the workflow
 In the dictionary, add your own settings, here's the descripton for each key
