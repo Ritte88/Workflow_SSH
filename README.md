@@ -29,11 +29,11 @@ SERVICE should be set to what you are using it for, eg. `'WorkFlowSSH'`, ACCOUNT
 Import you private key to pythonista, I did it by coping it to pythonistas icloud-folder, then in pythonista **I moved it to the local folder in Pythonista (eg. This Ipad).** 
 
 ### SSH.py
-Copy the code in SSH.py in this repo, and paste it in a folder inside your local folder in pythonista, eg. This Ipad.
+Copy the code in [SSH.py](https://github.com/Ritte88/Workflow_SSH/blob/master/SSH.py) in this repo, and paste it in a folder inside your local folder in pythonista, eg. This Ipad.
 
 
 ### No private key passphrase
-If you don't have a private key passphrase, I've made comments in SSH.py of which lines you should comment out/uncomment. Also remove the workflow-part stated below. I haven't tested this, but it *should* work.
+If you don't have a private key passphrase, I've made comments in [SSH.py](https://github.com/Ritte88/Workflow_SSH/blob/master/SSH.py) of which lines you should comment out/uncomment. Also remove the workflow-part stated below. I haven't tested this, but it *should* work.
 
 ## 2. In Workflow
 
