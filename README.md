@@ -14,7 +14,7 @@ Run the script and you should have a shell access there (it opens in another tab
     pip install paramiko
 
 ### Private key passphrase
-I asume you use private key passphrase, if you don't small modifications to the python script and workflow can be made to make it work. (see the end of this tutorial for modifications without private key passphrase)
+I assume you use private key passphrase, if you don't small modifications to the python script and workflow can be made to make it work. (see the end of this tutorial for modifications without private key passphrase)
 Exist Stash by closing the tab. In the command window of Pythonista write
 
     import keychain
