@@ -30,6 +30,7 @@ Import you private key to pythonista, I did it by coping it to pythonistas iclou
 
 ### SSH.py
 Copy the code in [SSH.py](https://github.com/Ritte88/Workflow_SSH/blob/master/SSH.py) in this repo, and paste it in a script inside your local folder in pythonista, eg. This Ipad.
+When you run the code, make sure that Pythonista is using **Python3.**
 
 
 ### No private key passphrase
